@@ -13,6 +13,13 @@ Open the contents of the repository in the
 ## Procedure and  Result
 In our project, we used optimization techniques with the help of CPLEX Optimizer to create the best possible schedule for around 200 trains traveling through 17 railway zones in India. To simulate the train movements, we generated random data for their entry and exit times within each zone to  a .dat file. Our main goal was to minimize the total delay experienced by all trains. By applying these optimization methods, we aimed to find the most efficient schedule that reduced delays and improved the overall reliability of the railway system for the given data.
 
+## Repository Guide
+The project.mod file contains the code for the project, defining the optimization model. <br>
+
+The project.dat file contains the input data required for running the model. <br>
+
+The project.pdf file contains a concise description used for presentation purposes, providing an overview of the project's key aspects. <br>
+
 
 
 
