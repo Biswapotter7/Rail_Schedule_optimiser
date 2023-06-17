@@ -1,6 +1,6 @@
 # Railway Schedule Optimizer
 
-The objective is to optimize the scheduling and coordination of train movements to reduce delays and improve overall efficiency in the transportation system. By carefully analyzing and optimizing train routes, timetables, and resource allocation, we seek to minimize the cumulative delay across all trains.
+The objective is to optimize the scheduling  train movements to reduce delays ,hence improving  efficiency in the transportation system. By carefully analyzing and optimizing train routes, timetables, and resource allocation, we seek to minimize the cumulative delay across all trains.
 
 
 ## Installation
@@ -25,7 +25,7 @@ The [project.pdf](https://github.com/Biswapotter7/Rail_Schedule_optimiser/blob/m
 
 ## Future Work
 
-Real-world data, more data points and edge cases can be utilized to validate and check robusteness the code .
+Real-world data, Application to other scenario (Like reducing Passenger Congestion at Airport) ,more data points and edge cases can be utilized to validate and check robusteness the code .
 
 ## **Authors**:
 - Biswaranjan Samal (21IM10011)
