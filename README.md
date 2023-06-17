@@ -8,7 +8,7 @@ The objective is to optimize the scheduling  train movements to reduce delays ,h
 Refer [IBM CPLEX ](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer)
 Login using Academic email address to gain access to all features.
 Install the required dependencies such as JAVA.
-Open the contents of the repository in the 
+
 
 ## Procedure and  Result
 We used optimization techniques with tCPLEX Optimizer to create the optimal schedule for  200 trains traveling through 17 railway zones in India. To simulate the train movements, we generated random data for their entry and exit times within each zone to a .dat file. We had to  minimize the total delay experienced by all trains. By CPLEX, we found the most efficient schedule that reduced delays for the given data.
