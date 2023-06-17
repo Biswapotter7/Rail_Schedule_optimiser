@@ -25,7 +25,7 @@ The [project.pdf](https://github.com/Biswapotter7/Rail_Schedule_optimiser/blob/m
 
 ## Future Work
 
-Real-world data , more data points  and edge cases can be utilized to validate the code .
+Real-world data, more data points and edge cases can be utilized to validate and check robusteness the code .
 
 ## **Authors**:
 - Biswaranjan Samal (21IM10011)
