@@ -6,7 +6,7 @@ The objective is to optimize the scheduling and coordination of train movements 
 ## Installation
 
 Refer [IBM CPLEX ](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer)
-Use Institute email address.
+Login using Academic email address to gain access to all features.
 Install the required dependencies such as JAVA.
 Open the contents of the repository in the 
 
@@ -15,13 +15,15 @@ In our project, we used optimization techniques with the help of CPLEX Optimizer
 
 
 
-- **Authors**:
+
+## Future Work
+
+Real-world data and more data point  can be utilized to validate and enhance the project's  robustness,incorporating more accurate representations of train operations.
+
+## **Authors**:
 - Biswaranjan Samal (21IM10011)
 - Snehal Mishra (21IM10036)
 - Ujjwal Kumar Singh (21IM10039)
 - Vivek Kumar (21IM10040)
 - Dronesh Magare (21IM30013)
 
-## Future Work
-
-Real-world data and more data point  can be utilized to validate and enhance the project's  robustness,incorporating more accurate representations of train operations.
