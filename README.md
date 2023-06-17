@@ -18,7 +18,7 @@ The [project.mod](https://github.com/Biswapotter7/Rail_Schedule_optimiser/blob/m
 
 The [project.dat](https://github.com/Biswapotter7/Rail_Schedule_optimiser/blob/main/project.dat) file contains the input data required for running the model. <br>
 
-The [project.pdf](https://github.com/Biswapotter7/Rail_Schedule_optimiser/blob/main/project.pdf) file contains a concise description used for presentation purposes, providing an overview of the project's key aspects. <br>
+The [project.pdf](https://github.com/Biswapotter7/Rail_Schedule_optimiser/blob/main/Project.pdf) file contains a concise description used for presentation purposes, providing an overview of the project's key aspects. <br>
 
 
 
