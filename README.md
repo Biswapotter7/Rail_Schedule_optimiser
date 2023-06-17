@@ -14,9 +14,9 @@ Open the contents of the repository in the
 We used optimization techniques with tCPLEX Optimizer to create the optimal schedule for  200 trains traveling through 17 railway zones in India. To simulate the train movements, we generated random data for their entry and exit times within each zone to a .dat file. We had to  minimize the total delay experienced by all trains. By CPLEX, we found the most efficient schedule that reduced delays for the given data.
 
 ## Repository Guide
-The [project.mod](https://github.com/Biswapotter7/Rail_Schedule_optimiser/blob/main/project.mod) file contains the code for the project, defining the optimization model. <br>
+The [project.mod](https://github.com/Biswapotter7/Rail_Schedule_optimiser/blob/main/project.mod) file contains the code for the project, defining the optimization model using the Constraint Programming Framework. <br>
 
-The [project.dat](https://github.com/Biswapotter7/Rail_Schedule_optimiser/blob/main/project.dat) file contains the input data required for running the model. <br>
+The [project.dat](https://github.com/Biswapotter7/Rail_Schedule_optimiser/blob/main/project.dat) file contains our test data required for the model. <br>
 
 The [project.pdf](https://github.com/Biswapotter7/Rail_Schedule_optimiser/blob/main/Project.pdf) file contains a concise description used for presentation purposes, providing an overview of the project's key aspects. <br>
 
